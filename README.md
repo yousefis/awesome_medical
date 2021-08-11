@@ -11,4 +11,5 @@
   * [Multi-Organ-Segmentation](https://github.com/Prayushi9/Multi-Organ-Segmentation)
   * [CHAOS_GCN](https://github.com/armyja/CHAOS_GCN)
   * [OrganSegC2F](https://github.com/198808xc/OrganSegC2F)
-
+  * [fcn_vatsat](https://github.com/tarolangner/fcn_vatsat)
+  * 
