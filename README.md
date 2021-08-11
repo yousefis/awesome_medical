@@ -4,5 +4,5 @@
 
 ## Segmentation
 
-[AbdomenCT-1K]{https://github.com/JunMa11/AbdomenCT-1K}
+[AbdomenCT-1K](https://github.com/JunMa11/AbdomenCT-1K)
 
