@@ -16,4 +16,4 @@
 
 ## Registration
 * Abdomen
- * [registration_tutorial](https://github.com/MASILab/registration_tutorial)
+  * [registration_tutorial](https://github.com/MASILab/registration_tutorial)
