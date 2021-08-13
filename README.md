@@ -12,6 +12,7 @@
   * [DenseVNet3D_Chest_Abdomen_Pelvis_Segmentation_tf2](https://github.com/fitushar/DenseVNet3D_Chest_Abdomen_Pelvis_Segmentation_tf2)
   * [3D-Medical-Imaging-Preprocessing-All-you-need](https://github.com/fitushar/3D-Medical-Imaging-Preprocessing-All-you-need)
   * [deedsBCV](https://github.com/mattiaspaul/deedsBCV)
+  * [CEAL-Medical-Image-Segmentation](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation)
 ## Registration
   * [Elastix](https://github.com/SuperElastix/elastix)
   * [AbdomenCT-1K](https://github.com/JunMa11/AbdomenCT-1K)
@@ -39,3 +40,6 @@
   * [Medical-Image-Classification-using-deep-learning](https://github.com/21Vipin/Medical-Image-Classification-using-deep-learning)
   * [Hello_World_Deep_Learning](https://github.com/paras42/Hello_World_Deep_Learning)
   * [X-ray-images-classification](https://github.com/faust-prime/X-ray-images-classification-with-Keras-TensorFlow)
+
+## Detection 
+  * [Brain-Tumor-Detection-from-MRI-Scans](https://github.com/muhammadsanaullah/Brain-Tumor-Detection-from-MRI-Scans)
