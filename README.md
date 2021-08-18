@@ -26,6 +26,8 @@
   * [torchio](https://github.com/fepegar/torchio)
   * [MedicalZooPytorch](https://github.com/black0017/MedicalZooPytorch)
   * [u-net-brain-tumor](https://github.com/zsdonghao/u-net-brain-tumor)
+  * [DenseUnet_Esophagus_Segmentation](https://github.com/yousefis/DenseUnet_Esophagus_Segmentation)
+  * [MRF_EM_Genetic_SA_ACS_Gossip](https://github.com/yousefis/MRF_EM_Genetic_SA_ACS_Gossip)
 
 ## Registration
   * [Elastix](https://github.com/SuperElastix/elastix)
@@ -54,6 +56,7 @@
   * [Medical-Image-Classification-using-deep-learning](https://github.com/21Vipin/Medical-Image-Classification-using-deep-learning)
   * [Hello_World_Deep_Learning](https://github.com/paras42/Hello_World_Deep_Learning)
   * [X-ray-images-classification](https://github.com/faust-prime/X-ray-images-classification-with-Keras-TensorFlow)
+  * [Survival_classification](https://github.com/GKaramiMP/Survival_classification)
 
 ## Detection 
   * [Brain-Tumor-Detection-from-MRI-Scans](https://github.com/muhammadsanaullah/Brain-Tumor-Detection-from-MRI-Scans)
@@ -65,10 +68,11 @@
   * []()
 ## Reconstruction
   * [fastMRI](https://github.com/facebookresearch/fastMRI)
+  * [Hadamard-te-ASL-recon](https://github.com/yousefis/Hadamard-te-ASL-recon)
   * 
 
 ## Others
   * [DLTK](https://github.com/DLTK/DLTK)
   * [medicaltorch](https://github.com/perone/medicaltorch)
   * [dipy](https://github.com/dipy/dipy)
-  * []()
+  * [ASL2PET](https://github.com/yousefis/ASL2PET)
