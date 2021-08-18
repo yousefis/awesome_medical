@@ -20,6 +20,10 @@
   * [medical_image_segmentation](https://github.com/CVxTz/medical_image_segmentation)
   * [CA-Net](https://github.com/HiLab-git/CA-Net)
   * [medical-image-segmentation](https://github.com/sudohainguyen/medical-image-segmentation)
+  * [Multi-Scale-Attention](https://github.com/sinAshish/Multi-Scale-Attention)
+  * [deepmedic](https://github.com/deepmedic/deepmedic)
+  * [torchio](https://github.com/fepegar/torchio)
+  * [MedicalZooPytorch](https://github.com/black0017/MedicalZooPytorch)
 
 ## Registration
   * [Elastix](https://github.com/SuperElastix/elastix)
@@ -51,3 +55,18 @@
 
 ## Detection 
   * [Brain-Tumor-Detection-from-MRI-Scans](https://github.com/muhammadsanaullah/Brain-Tumor-Detection-from-MRI-Scans)
+  * [medicaldetectiontoolkit](https://github.com/MIC-DKFZ/medicaldetectiontoolkit)
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+## Reconstruction
+  * [fastMRI](https://github.com/facebookresearch/fastMRI)
+  * 
+
+## Others
+  * [DLTK](https://github.com/DLTK/DLTK)
+  * [medicaltorch](https://github.com/perone/medicaltorch)
+  * []()
+  * []()
