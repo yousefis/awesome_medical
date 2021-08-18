@@ -13,6 +13,14 @@
   * [3D-Medical-Imaging-Preprocessing-All-you-need](https://github.com/fitushar/3D-Medical-Imaging-Preprocessing-All-you-need)
   * [deedsBCV](https://github.com/mattiaspaul/deedsBCV)
   * [CEAL-Medical-Image-Segmentation](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation)
+  * [medical-image-segmentation](https://github.com/topics/medical-image-segmentation)
+  * [MIScnn](https://github.com/frankkramer-lab/MIScnn)
+  * [SOTA-MedSeg](https://github.com/JunMa11/SOTA-MedSeg)
+  * [Medical-Transformer](https://github.com/jeya-maria-jose/Medical-Transformer)
+  * [medical_image_segmentation](https://github.com/CVxTz/medical_image_segmentation)
+  * [CA-Net](https://github.com/HiLab-git/CA-Net)
+  * [medical-image-segmentation](https://github.com/sudohainguyen/medical-image-segmentation)
+
 ## Registration
   * [Elastix](https://github.com/SuperElastix/elastix)
   * [AbdomenCT-1K](https://github.com/JunMa11/AbdomenCT-1K)
