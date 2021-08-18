@@ -3,7 +3,11 @@
 
 ## Segmentation
   * [abdominal-multi-organ-segmentation](https://github.com/assassint2017/abdominal-multi-organ-segmentation)
-    **abdominal multi-organ segmentation using pytorch,pytorch version: 0.4.0
+    * abdominal multi-organ segmentation
+    * Lib: pytorch
+    * Traind on: [Multi-atlas labeling Beyond the Cranial Vault](https://www.synapse.org/#!Synapse:syn3193805/wiki/217752) dataset
+    * Network: composed of two U-shape like 3D FCN
+    * 
   * [Abdomen-CT-Image-Segmentation](https://github.com/tureckova/Abdomen-CT-Image-Segmentation)
   * [3Dunet_abdomen_cascade](https://github.com/holgerroth/3Dunet_abdomen_cascade)
   * [Multi-Organ-Segmentation](https://github.com/Prayushi9/Multi-Organ-Segmentation)
