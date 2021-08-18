@@ -25,6 +25,7 @@
   * [deepmedic](https://github.com/deepmedic/deepmedic)
   * [torchio](https://github.com/fepegar/torchio)
   * [MedicalZooPytorch](https://github.com/black0017/MedicalZooPytorch)
+  * [u-net-brain-tumor](https://github.com/zsdonghao/u-net-brain-tumor)
 
 ## Registration
   * [Elastix](https://github.com/SuperElastix/elastix)
@@ -69,5 +70,5 @@
 ## Others
   * [DLTK](https://github.com/DLTK/DLTK)
   * [medicaltorch](https://github.com/perone/medicaltorch)
-  * []()
+  * [dipy](https://github.com/dipy/dipy)
   * []()
