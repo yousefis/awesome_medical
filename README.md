@@ -3,6 +3,7 @@
 
 ## Segmentation
   * [abdominal-multi-organ-segmentation](https://github.com/assassint2017/abdominal-multi-organ-segmentation)
+    **abdominal multi-organ segmentation using pytorch,pytorch version: 0.4.0
   * [Abdomen-CT-Image-Segmentation](https://github.com/tureckova/Abdomen-CT-Image-Segmentation)
   * [3Dunet_abdomen_cascade](https://github.com/holgerroth/3Dunet_abdomen_cascade)
   * [Multi-Organ-Segmentation](https://github.com/Prayushi9/Multi-Organ-Segmentation)
