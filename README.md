@@ -3,18 +3,26 @@
 
 ## Segmentation
   * [abdominal-multi-organ-segmentation](https://github.com/assassint2017/abdominal-multi-organ-segmentation)
-    * Abdominal multi-organ segmentation
+    * Image modality: CT
     * Lib: pytorch
-    * Traind on: [Multi-atlas labeling Beyond the Cranial Vault](https://www.synapse.org/#!Synapse:syn3193805/wiki/217752) dataset
+    * Dataset: [Multi-atlas labeling Beyond the Cranial Vault](https://www.synapse.org/#!Synapse:syn3193805/wiki/217752) dataset
     * Network: composed of two U-shape like 3D FCN
   * [Abdomen-CT-Image-Segmentation](https://github.com/tureckova/Abdomen-CT-Image-Segmentation)
-    *  A
-    *  Lib: 
-    *  Trained on:
+    *  Image modality: CT
+    *  Lib: Pytorch 
+    *  Dataset:
     *  Network: Unet and Vnet
     *  paper: [Improving CT Image Tumor Segmentation Through Deep Supervision and Attentional Gates](https://www.frontiersin.org/articles/10.3389/frobt.2020.00106/full)
   * [3Dunet_abdomen_cascade](https://github.com/holgerroth/3Dunet_abdomen_cascade)
+    * Image modality:
+    * Lib: 
+    * Dataset:
+    * paper:  
   * [Multi-Organ-Segmentation](https://github.com/Prayushi9/Multi-Organ-Segmentation)
+    * Image modality:
+    * Lib: 
+    * Dataset:
+    * paper: 
   * [CHAOS_GCN](https://github.com/armyja/CHAOS_GCN)
   * [OrganSegC2F](https://github.com/198808xc/OrganSegC2F)
   * [fcn_vatsat](https://github.com/tarolangner/fcn_vatsat)
