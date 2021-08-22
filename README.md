@@ -2,17 +2,13 @@
 # Awesome medical image processing projects 
 
 ## Segmentation
-| paper | Modality |Lib|Dataset|Network|
-| --- | --- | --- | --- | --- |
-| [abdominal-multi-organ-segmentation](https://github.com/assassint2017/abdominal-multi-organ-segmentation) | CT |pytorch|[Multi-atlas labeling Beyond the Cranial Vault](https://www.synapse.org/#!Synapse:syn3193805/wiki/217752) dataset|composed of two U-shape like 3D FCN
+| paper | Modality |Lib|Dataset|Network|Paper
+| --- | --- | --- | --- | --- |---|
+| [abdominal-multi-organ-segmentation](https://github.com/assassint2017/abdominal-multi-organ-segmentation) | CT |pytorch|[Multi-atlas labeling Beyond the Cranial Vault](https://www.synapse.org/#!Synapse:syn3193805/wiki/217752)|composed of two U-shape like 3D FCN||
+|[Abdomen-CT-Image-Segmentation](https://github.com/tureckova/Abdomen-CT-Image-Segmentation)|CT|Pytorch||Unet and Vnet|[Improving CT Image Tumor Segmentation Through Deep Supervision and Attentional Gates](https://www.frontiersin.org/articles/10.3389/frobt.2020.00106/full)|
 
 
-
-  * [abdominal-multi-organ-segmentation](https://github.com/assassint2017/abdominal-multi-organ-segmentation)
-    * Image modality: CT
-    * Lib: pytorch
-    * Dataset: [Multi-atlas labeling Beyond the Cranial Vault](https://www.synapse.org/#!Synapse:syn3193805/wiki/217752) dataset
-    * Network: composed of two U-shape like 3D FCN
+  
   * [Abdomen-CT-Image-Segmentation](https://github.com/tureckova/Abdomen-CT-Image-Segmentation)
     *  Image modality: CT
     *  Lib: Pytorch 
