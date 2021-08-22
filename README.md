@@ -6,46 +6,30 @@
 | --- | --- | --- | --- | --- |---|
 | [abdominal-multi-organ-segmentation](https://github.com/assassint2017/abdominal-multi-organ-segmentation) | CT |pytorch|[Multi-atlas labeling Beyond the Cranial Vault](https://www.synapse.org/#!Synapse:syn3193805/wiki/217752)|composed of two U-shape like 3D FCN||
 |[Abdomen-CT-Image-Segmentation](https://github.com/tureckova/Abdomen-CT-Image-Segmentation)|CT|Pytorch||Unet and Vnet|[Improving CT Image Tumor Segmentation Through Deep Supervision and Attentional Gates](https://www.frontiersin.org/articles/10.3389/frobt.2020.00106/full)|
+|[3Dunet_abdomen_cascade](https://github.com/holgerroth/3Dunet_abdomen_cascade)||||||
+|[Multi-Organ-Segmentation](https://github.com/Prayushi9/Multi-Organ-Segmentation)||||||
+|[CHAOS_GCN](https://github.com/armyja/CHAOS_GCN)||||||
+|[OrganSegC2F](https://github.com/198808xc/OrganSegC2F)||||||
+|[fcn_vatsat](https://github.com/tarolangner/fcn_vatsat)||||||
+|[DenseVNet3D_Chest_Abdomen_Pelvis_Segmentation_tf2](https://github.com/fitushar/DenseVNet3D_Chest_Abdomen_Pelvis_Segmentation_tf2)||||||
+|[3D-Medical-Imaging-Preprocessing-All-you-need](https://github.com/fitushar/3D-Medical-Imaging-Preprocessing-All-you-need)||||||
+|[deedsBCV](https://github.com/mattiaspaul/deedsBCV)||||||
+|[CEAL-Medical-Image-Segmentation](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation)||||||
+|[medical-image-segmentation](https://github.com/topics/medical-image-segmentation)||||||
+|[MIScnn](https://github.com/frankkramer-lab/MIScnn)||||||
+|[SOTA-MedSeg](https://github.com/JunMa11/SOTA-MedSeg)||||||
+|[Medical-Transformer](https://github.com/jeya-maria-jose/Medical-Transformer)||||||
+|[medical_image_segmentation](https://github.com/CVxTz/medical_image_segmentation)||||||
+|[CA-Net](https://github.com/HiLab-git/CA-Net)||||||
+|[medical-image-segmentation](https://github.com/sudohainguyen/medical-image-segmentation)||||||
+|[Multi-Scale-Attention](https://github.com/sinAshish/Multi-Scale-Attention)||||||
+|[deepmedic](https://github.com/deepmedic/deepmedic)||||||
+|[torchio](https://github.com/fepegar/torchio)||||||
+|[MedicalZooPytorch](https://github.com/black0017/MedicalZooPytorch)||||||
+|[u-net-brain-tumor](https://github.com/zsdonghao/u-net-brain-tumor)||||||
+|[DenseUnet_Esophagus_Segmentation](https://github.com/yousefis/DenseUnet_Esophagus_Segmentation)||||||
+|[MRF_EM_Genetic_SA_ACS_Gossip](https://github.com/yousefis/MRF_EM_Genetic_SA_ACS_Gossip)||||||
 
-
-  
-  * [Abdomen-CT-Image-Segmentation](https://github.com/tureckova/Abdomen-CT-Image-Segmentation)
-    *  Image modality: CT
-    *  Lib: Pytorch 
-    *  Dataset:
-    *  Network: Unet and Vnet
-    *  paper: [Improving CT Image Tumor Segmentation Through Deep Supervision and Attentional Gates](https://www.frontiersin.org/articles/10.3389/frobt.2020.00106/full)
-  * [3Dunet_abdomen_cascade](https://github.com/holgerroth/3Dunet_abdomen_cascade)
-    * Image modality:
-    * Lib: 
-    * Dataset:
-    * paper:  
-  * [Multi-Organ-Segmentation](https://github.com/Prayushi9/Multi-Organ-Segmentation)
-    * Image modality:
-    * Lib: 
-    * Dataset:
-    * paper: 
-  * [CHAOS_GCN](https://github.com/armyja/CHAOS_GCN)
-  * [OrganSegC2F](https://github.com/198808xc/OrganSegC2F)
-  * [fcn_vatsat](https://github.com/tarolangner/fcn_vatsat)
-  * [DenseVNet3D_Chest_Abdomen_Pelvis_Segmentation_tf2](https://github.com/fitushar/DenseVNet3D_Chest_Abdomen_Pelvis_Segmentation_tf2)
-  * [3D-Medical-Imaging-Preprocessing-All-you-need](https://github.com/fitushar/3D-Medical-Imaging-Preprocessing-All-you-need)
-  * [deedsBCV](https://github.com/mattiaspaul/deedsBCV)
-  * [CEAL-Medical-Image-Segmentation](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation)
-  * [medical-image-segmentation](https://github.com/topics/medical-image-segmentation)
-  * [MIScnn](https://github.com/frankkramer-lab/MIScnn)
-  * [SOTA-MedSeg](https://github.com/JunMa11/SOTA-MedSeg)
-  * [Medical-Transformer](https://github.com/jeya-maria-jose/Medical-Transformer)
-  * [medical_image_segmentation](https://github.com/CVxTz/medical_image_segmentation)
-  * [CA-Net](https://github.com/HiLab-git/CA-Net)
-  * [medical-image-segmentation](https://github.com/sudohainguyen/medical-image-segmentation)
-  * [Multi-Scale-Attention](https://github.com/sinAshish/Multi-Scale-Attention)
-  * [deepmedic](https://github.com/deepmedic/deepmedic)
-  * [torchio](https://github.com/fepegar/torchio)
-  * [MedicalZooPytorch](https://github.com/black0017/MedicalZooPytorch)
-  * [u-net-brain-tumor](https://github.com/zsdonghao/u-net-brain-tumor)
-  * [DenseUnet_Esophagus_Segmentation](https://github.com/yousefis/DenseUnet_Esophagus_Segmentation)
-  * [MRF_EM_Genetic_SA_ACS_Gossip](https://github.com/yousefis/MRF_EM_Genetic_SA_ACS_Gossip)
 
 ## Registration
   * [Elastix](https://github.com/SuperElastix/elastix)
