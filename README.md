@@ -9,7 +9,6 @@
 |[3Dunet_abdomen_cascade](https://github.com/holgerroth/3Dunet_abdomen_cascade)|CT|-||Unet|[An application of cascaded 3D fully convolutional networks for medical image segmentation](https://arxiv.org/pdf/1803.05431.pdf)|
 |[Multi-Organ-Segmentation](https://github.com/Prayushi9/Multi-Organ-Segmentation)|CT|Keras|-|ResNet|-|
 |[CHAOS_GCN](https://github.com/armyja/CHAOS_GCN)|CT/MR|pytorch|-|[Global_Convolutional_Network](https://github.com/SConsul/Global_Convolutional_Network)|-|
-
 |[OrganSegC2F](https://github.com/198808xc/OrganSegC2F)||||||
 |[fcn_vatsat](https://github.com/tarolangner/fcn_vatsat)||||||
 |[DenseVNet3D_Chest_Abdomen_Pelvis_Segmentation_tf2](https://github.com/fitushar/DenseVNet3D_Chest_Abdomen_Pelvis_Segmentation_tf2)||||||
