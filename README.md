@@ -8,8 +8,7 @@
 |[Abdomen-CT-Image-Segmentation](https://github.com/tureckova/Abdomen-CT-Image-Segmentation)|CT|Pytorch||Unet and Vnet|[Improving CT Image Tumor Segmentation Through Deep Supervision and Attentional Gates](https://www.frontiersin.org/articles/10.3389/frobt.2020.00106/full)|
 |[3Dunet_abdomen_cascade](https://github.com/holgerroth/3Dunet_abdomen_cascade)|CT|-||Unet|[An application of cascaded 3D fully convolutional networks for medical image segmentation](https://arxiv.org/pdf/1803.05431.pdf)|
 |[Multi-Organ-Segmentation](https://github.com/Prayushi9/Multi-Organ-Segmentation)|CT|Keras|-|ResNet|-|
-
-|[CHAOS_GCN](https://github.com/armyja/CHAOS_GCN)||||||
+|[CHAOS_GCN](https://github.com/armyja/CHAOS_GCN)|CT/MR|pytorch|-|[Global_Convolutional_Network](https://github.com/SConsul/Global_Convolutional_Network)|-|
 
 |[OrganSegC2F](https://github.com/198808xc/OrganSegC2F)||||||
 |[fcn_vatsat](https://github.com/tarolangner/fcn_vatsat)||||||
