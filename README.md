@@ -27,8 +27,7 @@
 |[torchio](https://github.com/fepegar/torchio)||||||
 |[MedicalZooPytorch](https://github.com/black0017/MedicalZooPytorch)||||||
 |[u-net-brain-tumor](https://github.com/zsdonghao/u-net-brain-tumor)||||||
-|[DenseUnet_Esophagus_Segmentation](https://github.com/yousefis/DenseUnet_Esophagus_Segmentation)||||||
-|[MRF_EM_Genetic_SA_ACS_Gossip](https://github.com/yousefis/MRF_EM_Genetic_SA_ACS_Gossip)||||||
+|[DenseUnet_Esophagus_Segmentation](https://github.com/yousefis/DenseUnet_Esophagus_Segmentation)|CT|TF|-|DDAUnet|[1](https://ieeexplore.ieee.org/document/9481104),[2](https://link.springer.com/chapter/10.1007/978-3-030-00937-3_40)|
 
 
 ## Registration
