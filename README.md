@@ -11,8 +11,8 @@
 |[CHAOS_GCN](https://github.com/armyja/CHAOS_GCN)|CT/MR|pytorch|-|[Global_Convolutional_Network](https://github.com/SConsul/Global_Convolutional_Network)|-|
 |[OrganSegC2F](https://github.com/198808xc/OrganSegC2F)||||||
 |[fcn_vatsat](https://github.com/tarolangner/fcn_vatsat)||||||
-|[DenseVNet3D_Chest_Abdomen_Pelvis_Segmentation_tf2](https://github.com/fitushar/DenseVNet3D_Chest_Abdomen_Pelvis_Segmentation_tf2)||||||
-|[3D-Medical-Imaging-Preprocessing-All-you-need](https://github.com/fitushar/3D-Medical-Imaging-Preprocessing-All-you-need)||||||
+|[DenseVNet3D_Segmentation](https://github.com/fitushar/DenseVNet3D_Chest_Abdomen_Pelvis_Segmentation_tf2)||||||
+|[3D-Medical-Imaging-Preprocessing](https://github.com/fitushar/3D-Medical-Imaging-Preprocessing-All-you-need)||||||
 |[deedsBCV](https://github.com/mattiaspaul/deedsBCV)||||||
 |[CEAL-Medical-Image-Segmentation](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation)||||||
 |[medical-image-segmentation](https://github.com/topics/medical-image-segmentation)||||||
