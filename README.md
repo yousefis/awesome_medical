@@ -2,7 +2,7 @@
 # Awesome medical image processing projects 
 
 ## Segmentation
-| paper | Modality |Lib|Dataset|Network|Paper
+| paper | Modality |Lib|Dataset|Network|Paper(s)
 | --- | --- | --- | --- | --- |---|
 | [abdominal-multi-organ-segmentation](https://github.com/assassint2017/abdominal-multi-organ-segmentation) | CT |pytorch|[Multi-Atlas Labeling Beyond the Cranial Vault ](https://www.synapse.org/#!Synapse:syn3193805/wiki/217752)|Composed of two U-shape like 3D FCN||
 |[Abdomen-CT-Image-Segmentation](https://github.com/tureckova/Abdomen-CT-Image-Segmentation)|CT|Pytorch||Unet and Vnet|[1](https://www.frontiersin.org/articles/10.3389/frobt.2020.00106/full)|
