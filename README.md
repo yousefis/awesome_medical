@@ -4,11 +4,11 @@
 ## Segmentation
 | paper | Modality |Lib|Dataset|Network|Paper
 | --- | --- | --- | --- | --- |---|
-| [abdominal-multi-organ-segmentation](https://github.com/assassint2017/abdominal-multi-organ-segmentation) | CT |pytorch|[1](https://www.synapse.org/#!Synapse:syn3193805/wiki/217752)|Composed of two U-shape like 3D FCN||
+| [abdominal-multi-organ-segmentation](https://github.com/assassint2017/abdominal-multi-organ-segmentation) | CT |pytorch|[Multi-Atlas Labeling Beyond the Cranial Vault ](https://www.synapse.org/#!Synapse:syn3193805/wiki/217752)|Composed of two U-shape like 3D FCN||
 |[Abdomen-CT-Image-Segmentation](https://github.com/tureckova/Abdomen-CT-Image-Segmentation)|CT|Pytorch||Unet and Vnet|[1](https://www.frontiersin.org/articles/10.3389/frobt.2020.00106/full)|
 |[3Dunet_abdomen_cascade](https://github.com/holgerroth/3Dunet_abdomen_cascade)|CT|-||Unet|[1](https://arxiv.org/pdf/1803.05431.pdf)|
 |[Multi-Organ-Segmentation](https://github.com/Prayushi9/Multi-Organ-Segmentation)|CT|Keras|-|ResNet|-|
-|[CHAOS_GCN](https://github.com/armyja/CHAOS_GCN)|CT/MR|pytorch|-|[1](https://github.com/SConsul/Global_Convolutional_Network)|-|
+|[CHAOS_GCN](https://github.com/armyja/CHAOS_GCN)|CT/MR|pytorch|-|[Global Convolutional Network](https://github.com/SConsul/Global_Convolutional_Network)|-|
 |[OrganSegC2F](https://github.com/198808xc/OrganSegC2F)||||||
 |[fcn_vatsat](https://github.com/tarolangner/fcn_vatsat)||||||
 |[DenseVNet3D_Segmentation](https://github.com/fitushar/DenseVNet3D_Chest_Abdomen_Pelvis_Segmentation_tf2)||||||
