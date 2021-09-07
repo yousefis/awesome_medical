@@ -9,7 +9,7 @@
 |[3Dunet_abdomen_cascade](https://github.com/holgerroth/3Dunet_abdomen_cascade)|CT|-||Unet|[1](https://arxiv.org/pdf/1803.05431.pdf)|
 |[Multi-Organ-Segmentation](https://github.com/Prayushi9/Multi-Organ-Segmentation)|CT|Keras|-|ResNet|-|
 |[CHAOS_GCN](https://github.com/armyja/CHAOS_GCN)|CT/MR|pytorch|-|[Global Convolutional Network](https://github.com/SConsul/Global_Convolutional_Network)|-|
-|[OrganSegC2F](https://github.com/198808xc/OrganSegC2F)||||||
+|[OrganSegC2F](https://github.com/198808xc/OrganSegC2F)|CT|Caffe||||
 |[fcn_vatsat](https://github.com/tarolangner/fcn_vatsat)||||||
 |[DenseVNet3D_Segmentation](https://github.com/fitushar/DenseVNet3D_Chest_Abdomen_Pelvis_Segmentation_tf2)||||||
 |[3D-Medical-Imaging-Preprocessing](https://github.com/fitushar/3D-Medical-Imaging-Preprocessing-All-you-need)||||||
