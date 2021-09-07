@@ -62,11 +62,7 @@
 ## Detection 
   * [Brain-Tumor-Detection-from-MRI-Scans](https://github.com/muhammadsanaullah/Brain-Tumor-Detection-from-MRI-Scans)
   * [medicaldetectiontoolkit](https://github.com/MIC-DKFZ/medicaldetectiontoolkit)
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
+ 
 ## Reconstruction
   * [fastMRI](https://github.com/facebookresearch/fastMRI)
   * [Hadamard-te-ASL-recon](https://github.com/yousefis/Hadamard-te-ASL-recon)
